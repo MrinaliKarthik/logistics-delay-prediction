@@ -28,7 +28,8 @@ Predict shipment delays and identify operational drivers (traffic, waiting time,
 - **Best model for risk control:** Tuned **Logistic Regression** with a **0.3 threshold** minimized false negatives (only 6 missed delays).  
 - **Operational moves:** Prioritize shipments with high waiting time, reroute around heavy traffic, and maintain buffer inventory during peak months.
 
-![Key Findings](assets/figures/key_findings.png)
+View key findings:  
+https://github.com/MrinaliKarthik/logistics-delay-prediction/blob/main/assets/figures/key_findings.pdf
 
 ---
 
